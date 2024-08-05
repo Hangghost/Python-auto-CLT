@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: jformat
+Version: 0.0.1
+Summary: Reformats files to stdout
+Author: John Doe
+Author-email: hangghost@gmail.com
+Requires-Dist: click
+Requires-Dist: colorama
